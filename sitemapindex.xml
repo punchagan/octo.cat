@@ -5,10 +5,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://octo.cat/galleries/rss.xml</loc>
-  <lastmod>2014-07-06</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://octo.cat/rss.xml</loc>
   <lastmod>2014-07-06</lastmod>
  </sitemap>
